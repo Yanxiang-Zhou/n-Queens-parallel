@@ -2,8 +2,6 @@
 #include <string>
 
 
-/*************************** DEFINE YOUR HELPER FUNCTIONS HERE ************************/
-
 
 /* Worker helper */
 
